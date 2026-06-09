@@ -8,7 +8,6 @@ Snake Game est une réinterprétation du célèbre jeu Snake développée en Pyt
 1. Cloner le dépôt
 ```
 git clone https://github.com/DevMerline/SnakeGame.git
-cd snake-modern
 ```
 
 3. Installer les dépendances
