@@ -50,8 +50,9 @@ Collision avec le propre corps du serpent
 ```
 if head in self.body[1:]:
     return True
-Génération des fruits
 ```
+Génération des fruits:
+
 Les fruits apparaissent aléatoirement dans la grille tout en évitant les positions occupées par le serpent.
 ```
 while True:
